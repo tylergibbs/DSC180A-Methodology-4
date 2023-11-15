@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Tyler Gibbs
-tgibbs@ucsd.edu
+Tyler Gibbs and Jonathan Lo
